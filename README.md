@@ -4,7 +4,26 @@ Repositório destinado aos trabalhos realizados no módulo de lógica da program
 
 ## Exercício 1
 
+• Altere o exemplo visto abaixo para que ao
+invés do nome solicite o endereço da pessoa e
+imprima o endereço na tela. Execute o
+programa e veja se a saída condiz com o
+endereço que você digitou.
+
 ## Exercício 2
+
+1. Crie um programa que declare 3 variáveis para
+   receber o Nome, o peso e a altura de uma pessoa.
+   Ao final imprima os dados na tela.
+2. Com base no programa anterior calcule e exiba ao
+   final o Índice de Massa Corpórea(IMC) da pessoa
+   sabendo que a fórmula para o cálculo é:
+   IMC = peso/(altura\*altura);
+   OBS: Insira um comentário na linha em que se
+   encontra a fórmula para esclarecer como o cálculo é
+   feito. Abaixo a saída esperada
+
+[Resoluçao](./exercicios/exercicio2.txt)
 
 ## Exercício 3
 
