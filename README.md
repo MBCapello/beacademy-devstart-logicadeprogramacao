@@ -4,21 +4,7 @@ Exercitando o conhecimento, resolvendo questões cotidianas utilizando lógica d
 
 
 
-## Lógica Realizada
-
-- Constantes, Comandos de Atribuição e Cometários
-- Operadores Aritméticos, Caracteres, Leitura e Saída de Dados
-- Se, Senão Se e Senão
-- Switch-Case
-- Estrutura de Repetição Para
-- Estrutura de Repetição - Enquanto
-- Estrutura de Repetição - Enquanto Repita-ate
-- Estrutura de Dados
-- Matriz
-
-<hr>
-
-## Documentação do exercícios
+## Exercícios
 
 - [Exercicio-01](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-01)
 - [Exercicio-02](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-02)
