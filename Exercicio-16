@@ -1,0 +1,14 @@
+Algoritmo "Exercício 16: while"
+//Lógica de Programação
+var login : caractere
+var password : inteiro
+Inicio
+    escreval("Login:")
+    leia(login)
+    escreval("Senha:")
+    leia(senha)
+    enquanto (!login==Marcos && senha==paylivre) faca
+        escreva("Tente novamente")
+    fimenquanto
+    escreval("Boas vindas!")
+Fimalgoritmo

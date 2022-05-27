@@ -1,0 +1,8 @@
+Algoritmo "Exercício 1: endereco"
+//Lógica de Programação
+var endereco : caractere
+Inicio
+    escreva("Digite seu endereco:")
+    leia(endereco)
+    escreva("Seu endereco é rua " + endereco)
+Fimalgoritmo

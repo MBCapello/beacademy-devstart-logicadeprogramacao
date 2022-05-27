@@ -1,74 +1,47 @@
-# Título do Projeto
+# Be Academy - Exercícios 01 - 25 Lógica de Programação
 
-Repositório destinado aos trabalhos realizados no módulo de lógica da programação do curso da Be Academy sobre PHP
+Exercitando o conhecimento, resolvendo questões cotidianas utilizando lógica de programação:
 
-## Exercício 1
 
-• Altere o exemplo visto abaixo para que ao
-invés do nome solicite o endereço da pessoa e
-imprima o endereço na tela. Execute o
-programa e veja se a saída condiz com o
-endereço que você digitou.
 
-## Exercício 2
+## Lógica Realizada
 
-1. Crie um programa que declare 3 variáveis para
-   receber o Nome, o peso e a altura de uma pessoa.
-   Ao final imprima os dados na tela.
-2. Com base no programa anterior calcule e exiba ao
-   final o Índice de Massa Corpórea(IMC) da pessoa
-   sabendo que a fórmula para o cálculo é:
-   IMC = peso/(altura\*altura);
-   OBS: Insira um comentário na linha em que se
-   encontra a fórmula para esclarecer como o cálculo é
-   feito. Abaixo a saída esperada
+- Constantes, Comandos de Atribuição e Cometários
+- Operadores Aritméticos, Caracteres, Leitura e Saída de Dados
+- Se, Senão Se e Senão
+- Switch-Case
+- Estrutura de Repetição Para
+- Estrutura de Repetição - Enquanto
+- Estrutura de Repetição - Enquanto Repita-ate
+- Estrutura de Dados
+- Matriz
 
-[Resoluçao](./exercicios/exercicio2.txt)
+<hr>
 
-## Exercício 3
+## Documentação do exercícios
 
-## Exercício 4
-
-## Exercício 5
-
-## Exercício 6
-
-## Exercício 7
-
-## Exercício 8
-
-## Exercício 9
-
-## Exercício 10
-
-## Exercício 11
-
-## Exercício 12
-
-## Exercício 13
-
-## Exercício 14
-
-## Exercício 15
-
-## Exercício 16
-
-## Exercício 17
-
-## Exercício 18
-
-## Exercício 19
-
-## Exercício 20
-
-## Exercício 21
-
-## Exercício 22
-
-## Exercício 23
-
-## Exercício 24
-
-## Exercício 25
-
-## Exercício 26
+- [Exercicio-01](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-01)
+- [Exercicio-02](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-02)
+- [Exercicio-03](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-03)
+- [Exercicio-04](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-04)
+- [Exercicio-05](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-05)
+- [Exercicio-06](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-06)
+- [Exercicio-07](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-07)
+- [Exercicio-08](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-08)
+- [Exercicio-09](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-09)
+- [Exercicio-10](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-10)
+- [Exercicio-11](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-11)
+- [Exercicio-12](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-12)
+- [Exercicio-13](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-13)
+- [Exercicio-14](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-14)
+- [Exercicio-15](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-15)
+- [Exercicio-16](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-16)
+- [Exercicio-17](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-17)
+- [Exercicio-18](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-18)
+- [Exercicio-19](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-19)
+- [Exercicio-20](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-20)
+- [Exercicio-21](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-21)
+- [Exercicio-22](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-22)
+- [Exercicio-23](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-23)
+- [Exercicio-24](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-24)
+- [Exercicio-25](https://github.com/GeanFerreira/beacademy-devstart-logicadeprogramacao/blob/main/Exercicio-25)

@@ -1,0 +1,12 @@
+Algoritmo "Exercício 11: FOR"
+//Lógica de Programação
+var i : inteiro
+var numero : inteiro
+Inicio
+    escreval("Digite um número")
+    leia(numero)
+    
+    para i de 1 ate 10 passo i+1 faca
+        escreva(num, " x ", i, " = ", (num * i))
+    fimpara
+Fimalgoritmo
